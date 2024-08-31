@@ -31,6 +31,8 @@ public class DialogueControl : MonoBehaviour
     }
 
 
+    //a
+
     public void NextSentence()
     {
 
